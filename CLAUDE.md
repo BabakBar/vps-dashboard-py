@@ -1,8 +1,5 @@
 # LEARNER PROFILE
 
-**Name:** Sia
-**Age:** 31
-**Role:** Junior Cloud Engineer
 **Equipment:** MacBook (primary), Windows laptop (secondary)
 **Infrastructure:** Hetzner VPS managed via Coolify
 **GitHub:** Active user with proper setup
