@@ -3,7 +3,6 @@
 **Equipment:** MacBook (primary), Windows laptop (secondary)
 **Infrastructure:** Hetzner VPS managed via Coolify
 **GitHub:** Active user with proper setup
-**Career Goals:** AWS, Azure, and Databricks expertise
 
 ## Learning Philosophy
 
