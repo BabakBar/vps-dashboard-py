@@ -61,7 +61,7 @@ Complex workflow automation stored in `archive/phase4/`:
 - **commands**: task_easy, task_hard (orchestrated workflows)
 - **hooks**: task_hard_prep_hook (automatic directory setup)
 
-**Note:** One-time restoration at Phase 3→4 transition. See `archive/phase4/README.md` for details.
+**Note:** One-time restoration at Phase 3→4 transition. See `.claude/archive/phase4/README.md` for details.
 
 ---
 
@@ -117,7 +117,7 @@ Complex workflow automation stored in `archive/phase4/`:
 
 # MODERN TOOLING GUARDRAILS
 
-**CRITICAL:** Always use modern 2025 tools. This is non-negotiable for building good habits.
+Use the modern tools below; building the habit is part of the learning plan.
 
 ## Package Management: uv
 
@@ -242,10 +242,9 @@ Project 1 Reflection:
 
 # REFERENCE
 
-**Full Learning Plan:** See `big-plan.xml` for complete 4-phase curriculum details
-**Agent/Command Creation:** See `guide.md` for advanced customization
-**Project Roadmap:** See `TRANSITION.md` for phase-by-phase feature unlocks
-**Phase 4 Restoration:** See `archive/phase4/README.md` for activation guide
+**Full Learning Plan:** See `docs/big-plan.xml` for complete 4-phase curriculum details
+**Project Roadmap:** See `.claude/TRANSITION.md` for phase-by-phase feature unlocks
+**Phase 4 Restoration:** See `.claude/archive/phase4/README.md` for activation guide
 
 ---
 

@@ -42,7 +42,6 @@ When starting Project 9+, you'll restore 6 files from `archive/phase4/` to enabl
 ├── CLAUDE.md (in project root)  # Living control hub - update after each project
 ├── TRANSITION.md                # This file
 ├── settings.json                # Phase-gated permissions with opt-in comments
-├── guide.md                     # Reference for advanced features (kept)
 ├── agents/
 │   ├── README.md                # Activation schedule for all agents
 │   ├── learning-reviewer.md     # ACTIVE: Phase 1+ educational code review
@@ -218,7 +217,7 @@ This keeps the AI assistant (Claude) synchronized with your actual progress and 
   Totally fine! The archived workflow agents are for large, complex projects. If your Phase 4 capstone is smaller or you prefer simpler workflows, just leave them archived.
 
 - **"Can I create my own agents/commands?"**
-  Absolutely! See `guide.md` for detailed instructions. Phase 2 is the perfect time to create your first custom command based on repetitive tasks you've discovered.
+  Absolutely! See `commands/README.md` and `agents/README.md` for instructions. Phase 2 is the perfect time to create your first custom command based on repetitive tasks you've discovered.
 
 ---
 

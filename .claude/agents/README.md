@@ -113,7 +113,7 @@ These agents are stored in `archive/phase4/agents/` and designed for complex, mu
 
 ## Creating Your Own Agents
 
-You can create custom agents for specific needs. See `../guide.md` for detailed instructions.
+You can create custom agents for specific needs. See the Claude Code documentation on subagents for the file format; the `learning-reviewer.md` agent in this folder is a working example.
 
 **Example: Database optimization agent**
 ```markdown
